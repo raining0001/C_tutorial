@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708595736 source:d:\c++\c_project\tutorial\tutorial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+
